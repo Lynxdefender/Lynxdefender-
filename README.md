@@ -1,6 +1,14 @@
 # Lynxdefender-
 LynxDefender — A lightweight security-focused toolkit for detecting, analyzing, and defending against suspicious activity. 🛡️  Built for security researchers, developers, and defenders who want practical tools for a safer digital environment.
 
+🛡️ LynxDefender
+
+Defend smarter. Detect faster.
+
+LynxDefender is a lightweight Windows security tool designed for detecting, analyzing, and responding to suspicious activity.
+
+Built for security researchers, developers, and defenders who want a simple, practical defensive security utility.
+
 ✨ Features
 🔍 Suspicious activity detection
 🛡️ Defensive security analysis
